@@ -3,10 +3,11 @@
 🌱 对CV和NLP略知一二，最近在学习NLP<br><br>
 📫 我的邮箱：1059899674@qq.com<br><br>
 
-<br/>
 <a href="https://github.com/BeatsLeo">
-  <img height="180em" weight="30%" src="https://github-readme-stats.vercel.app/api?username=BeatsLeo&include_all_commits=true&hide=issues&count_private=true&show_icons=true&rank_icon=github&theme=radical" />
-  <img height="180em" weight="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatsLeo&show_icons=true&layout=compact&theme=radical" />
+  <div display="flex" align-items="center" justify-content="space-between">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatsLeo&include_all_commits=true&hide=issues&count_private=true&show_icons=true&rank_icon=github&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatsLeo&show_icons=true&layout=compact&theme=tokyonight" />
+  </div>
 </a>
 <br/>
 <picture>
