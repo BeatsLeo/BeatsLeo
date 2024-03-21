@@ -5,8 +5,8 @@
 
 <a href="https://github.com/BeatsLeo">
   <div display="flex" align-items="center" justify-content="space-between">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=BeatsLeo&include_all_commits=true&hide=issues&count_private=true&show_icons=true&rank_icon=github&theme=tokyonight" />
-    <img height="180em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatsLeo&show_icons=true&layout=compact&theme=tokyonight" />
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=BeatsLeo&include_all_commits=true&hide=issues&count_private=true&show_icons=true&rank_icon=github" />
+    <img height="180em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatsLeo&show_icons=true&layout=compact" />
   </div>
 </a>
 <br/>
